@@ -24,7 +24,7 @@ export default function Home() {
             Save and see your changes test.
           </li>
           <li className="tracking-[-.01em]">
-           test test test
+           SUPAKORN
           </li>
         </ol>
 
